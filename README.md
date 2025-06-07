@@ -59,6 +59,7 @@ To demonstrate skills in object detection, tracking, and modular Python developm
 ## Input video
 
 The input video used is from Pexels and is free for personal/commercial use.
+
 Input video URL: https://videos.pexels.com/video-files/5402042/5402042-hd_1920_1080_30fps.mp4 
 
 ---
@@ -66,5 +67,7 @@ Input video URL: https://videos.pexels.com/video-files/5402042/5402042-hd_1920_1
 ## Output video properties
 
 Detected object classes: person, car, and more.
+
 Assigned consistent tracking IDs per object.
+
 Real-time visualization with OpenCV.
